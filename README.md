@@ -1,2 +1,2 @@
-# GPLAFX
-General PL Analysis Framework for Xenon experiment
+# GLAFX
+General Likelihood Analysis Framework for Xenon experiment
