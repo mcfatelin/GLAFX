@@ -1,3 +1,3 @@
 # GLAFX
 General Likelihood Analysis Framework for Xenon experiment
-..image:: docs/schematic.jpg
+.. image:: docs/schematic.png
